@@ -1,0 +1,12 @@
+Bacong Waterworks v1.1.0 upload checklist
+
+Required:
+  app/
+  build.gradle.kts
+  gradle.properties
+  settings.gradle.kts
+  release-keystore.jks
+  release-keystore.properties
+  .github/workflows/build-apk.yml
+
+If .github is hidden on Windows, create .github/workflows/build-apk.yml in GitHub and paste BUILD-WORKFLOW-COPY-PASTE.yml.
